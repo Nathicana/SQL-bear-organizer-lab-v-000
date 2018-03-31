@@ -1,16 +1,16 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Mr. Chocolate", 8, "M", "white",  "jolly", 1);
+VALUES ("Mr. Chocolate", 20, "M", "dark brown",  "calm", 0);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Rowdy", 3, "M", "beige", "boisterous", 1);
+VALUES ("Rowdy", 10, "M", "black", "intense", 1);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Tabitha", 10, "F", "yellow", "motherly", 1);
+VALUES ("Tabitha", 6, "F", "dark brown", "Nice", 1);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Sergeant Brown", 15, "M", "blue", "stern", 1);
+VALUES ("Sergeant Brown", 19, "M", "Green", "Slimy", 0);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Melissa", 5, "F", "lavender", "sweet", 1);
+VALUES ("Melissa", 13, "F", "dark brown", "goofy", 1);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Grinch", 20, "M", "green", "nasty", 1);
+VALUES ("Grinch", 2, "M", "Black", "Grinchy", 1);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Wendy", 2, "F", "pink", "goofy", 1);
+VALUES ("Wendy", 6, "F", "Blue", "naive", 1);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES (NULL, 2, "M", "black", "aggressive", 0);
+VALUES (NULL, 20, "M", "black", "aggressive", 0);
